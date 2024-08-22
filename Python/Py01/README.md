@@ -2,7 +2,7 @@
 - 코더 : 반업석, 임만순 
 - 리뷰어 : 조계현
 
-![스크린샷](0822 peerreview.png)
+![screenshot](0822 peerreview.png)
 
 # PRT(Peer Review Template)
 - [X]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**
